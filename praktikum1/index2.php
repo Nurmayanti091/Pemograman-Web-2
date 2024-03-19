@@ -63,7 +63,7 @@
             </tr>
 
             <?php foreach($mahasiswa as $mhs): ?>  
-                <!-- tanda                  -->
+                <!-- comene -->
             <tr>
                 <td> <?=$mhs['nama']?> </td>
                 <td> <?=$mhs['jurusan']?></td>
